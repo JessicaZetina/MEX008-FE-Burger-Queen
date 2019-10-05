@@ -18,7 +18,7 @@ class Boxfinish extends React.Component {
 
   componentDidMount() {
     const order = JSON.parse(localStorage.getItem('order'));
-    console.log(typeof order[2].price);
+    //console.log(typeof order[2].price);
 
     // const sum = (a, b) => {
     //   console.log(a['price']);
