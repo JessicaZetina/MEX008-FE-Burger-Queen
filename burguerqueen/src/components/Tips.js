@@ -44,7 +44,7 @@ class Tarjettips extends React.Component {
         </div>
       </div>
     );
-  }
+    } 
 }
 
 export default Tarjettips;
