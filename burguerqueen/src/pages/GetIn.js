@@ -1,7 +1,5 @@
 
     import React from 'react';
-    // import {FormGroup, Label, Input, Button} from 'reactstrap';
-    // import mesereando from '../imgFED/mesereando.png';
     import BoxGet from "../components/BoxGet";
 
     const GetIn = () => {
